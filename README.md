@@ -1,5 +1,5 @@
 # Tugas-Besar-RPL-II
-Sistem Pengelolahan Karya Ilmiah <br>
+Sistem Pengelolaan Karya Ilmiah <br>
 IF 3A Karyawan <br>
 Politeknik Negeri Batam <br>
 
